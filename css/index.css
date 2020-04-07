@@ -1,0 +1,66 @@
+#footer {
+    background: #3C3B3F;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #605C3C, #3C3B3F);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #605C3C, #3C3B3F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+#headerr {
+    background: #3C3B3F;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #605C3C, #3C3B3F);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #605C3C, #3C3B3F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+#services,  #merit, #name {
+    color: white;
+}
+.nav-link a {
+    color: white;
+}
+#facebook {
+    color: white;
+}
+#fidelu {
+    color: white;
+}
+.collapse navbar-collapse {
+    margin-left: 100px;
+}
+#main  img {
+    max-height: 100vh;
+}
+
+#carousel {
+    position: relative;
+}
+
+#carousel .overlay {
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0, 0.2);
+    color: white;
+    
+}
+#carousel .overlay .container ,
+#carousel .overlay .row {
+    height: 100%;
+}
+ #misiontext {
+    font-size: 25px;
+}
+
+#btn-fb:hover {
+  background-color: #2e683b;
+}
+.card-title {
+    color: black;
+}
+.card-text {
+    color: black;
+}
+textarea {
+    color: black;
+}
